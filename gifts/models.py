@@ -1,5 +1,5 @@
 from django.db import models
-from Cython.Compiler.TypeSlots import descrdelfunc
+# from Cython.Compiler.TypeSlots import descrdelfunc
 
 
 
