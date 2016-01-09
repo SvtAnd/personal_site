@@ -1,0 +1,1 @@
+from .django_thumbs import ImageWithThumbsField
